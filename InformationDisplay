@@ -3,7 +3,7 @@ using TMPro;
 using System.Collections;
 using System.Collections.Generic;
 
-public class InformationReferenceDisplay : MonoBehaviour
+public class InformationDisplay : MonoBehaviour
 {
     [System.Serializable]
     public class InformationItem
