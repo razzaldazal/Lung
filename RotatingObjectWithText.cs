@@ -14,7 +14,7 @@ public class TextVisibilityController : MonoBehaviour
 
         if (attachedText == null)
         {
-            Debug.LogError("Please assign a TextMeshPro component to the attachedText field.");
+            Debug.LogError("Please assign a TextMeshPro component to the attached Text field.");
         }
     }
 
