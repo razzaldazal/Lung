@@ -9,4 +9,4 @@ Each description has been referenced in the top right.
 -----------------------------------------------------------------------------------------------------------------
 https://drive.google.com/drive/folders/1qIHEeht536I4JOFmiY3E0txe5dS9I05D?usp=drive_link
 -----------------------------------------------------------------------------------------------------------------
-Go to the google drive link and download the folder, Then click on the 3DLung.exe file to view it.
+Go to the google drive link and download everything in the folder for it work, Then click on the 3DLung.exe file to view it.
